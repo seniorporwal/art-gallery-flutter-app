@@ -11,6 +11,7 @@ More features will be added in the app ASAP.
 ![Alt text](https://github.com/seniorporwal/art-gallery-flutter-app/blob/main/project%20screenshot/Screenshot%202023-05-17%20090005.png)
 ![Alt text](https://github.com/seniorporwal/art-gallery-flutter-app/blob/main/project%20screenshot/Screenshot%202023-05-17%20090031.png)
 ![Alt text](https://github.com/seniorporwal/art-gallery-flutter-app/blob/main/project%20screenshot/Screenshot%202023-05-17%20090111.png)
+![Alt text](https://github.com/seniorporwal/art-gallery-flutter-app/blob/main/project%20screenshot/Screenshot%202023-05-17%20090223.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
