@@ -1,6 +1,12 @@
 # flutter_youtube
+# Art Gallery App
 
-A new Flutter project.
+A new Flutter project. It's my first flutter project, more incomming!
+# Features of the app
+It has 3 pages: homepage, profile page, and description page.
+It has theme changers. dark n light.
+
+More features will be added in the app ASAP.
 
 ## Getting Started
 
