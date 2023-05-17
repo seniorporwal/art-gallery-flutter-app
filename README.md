@@ -7,6 +7,8 @@ It has 3 pages: homepage, profile page, and description page.
 It has theme changers. dark n light.
 
 More features will be added in the app ASAP.
+# Screenshots of the ui
+![Alt text](https://github.com/seniorporwal/art-gallery-flutter-app/blob/main/project%20screenshot/Screenshot%202023-05-17%20090005.png)
 
 ## Getting Started
 
