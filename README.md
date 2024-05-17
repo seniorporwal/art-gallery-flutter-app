@@ -3,9 +3,13 @@ Welcome to the Art Gallery App! This application, developed using the Flutter fr
 
 # Features
 Home Page: Browse a collection of art pieces.
+
 Profile Page: View and manage your profile information.
+
 Description Page: Get detailed information about selected art pieces.
+
 Theme Changer: Switch between dark and light themes.
+
 Material3 Design: Modern and minimalist user interface.
 
 # Screenshots of the UI
